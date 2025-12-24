@@ -1,4 +1,4 @@
-# # Spring AI Tool Calling
+# Spring AI Tool Calling
 
 This project demonstrates **AI Tool Calling** using **Spring Boot** and **Spring AI**. It shows how Large Language Models (LLMs) can dynamically invoke backend tools (Java methods/APIs) to perform real actions such as calculations, data retrieval, or custom business logic based on user prompts.
 
